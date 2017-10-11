@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package calt2;
 
 /**
@@ -11,6 +7,14 @@ package calt2;
  */
 public class Calt2 {
 
+    
+    
+    
+    public int Add(String S1, String S2)
+    {
+        return 0;
+    }
+    
     /**
      * @param args the command line arguments
      */
